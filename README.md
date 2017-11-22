@@ -1,5 +1,5 @@
 # SWEETCAKE
-<!DOCTYPE html>
+
 <html>
 <body>
 i love cake! </br>
